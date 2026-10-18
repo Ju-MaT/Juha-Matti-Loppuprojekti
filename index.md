@@ -100,7 +100,7 @@ I read this interesting quote the other day:
 
 2. 
 
-The answer to exerci below:
+The answer below:
 
 1. Cut the cheese
 2. Slice the tomatoes
@@ -126,7 +126,7 @@ Answer ends
 
 5. 
 
-Answer start below:
+The Answer below:
 
 ---
 1. Cut the cheese
@@ -156,7 +156,7 @@ To doubt they were kneeling then.
 
 2. 
 
-Answer below
+The Answer below:
 
 ---
 
