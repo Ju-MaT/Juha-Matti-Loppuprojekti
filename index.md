@@ -1,7 +1,7 @@
 <div align="center">
 
 ## **Juha-Matti Tuovinen web -tehtävä**
-
+**This page contains my solutions to the Markdown Tutorial exercises.**
 </div>
 
 
@@ -171,7 +171,7 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 
 <div align="center">
 
-# _**Whohoo! Congratulations! - All lessons are completed**_
+# _**Whohoo! - All lessons are completed**_
 
 
 
